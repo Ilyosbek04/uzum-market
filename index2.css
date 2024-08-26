@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.card{
+    width: 450px;
+    height: 600px;
+    border: 2px solid black;
+   margin:auto;
+}
+.h1{
+    text-align: center;
+    padding-top: 40px;
+}
+.h{
+    width: 350px;
+    margin: auto;
+    color: black;
+}
+.card p{
+    width: 300px;
+    margin-left: 80px;
+}
+.card2{
+    text-align: center;
+    font-size: 30px;
+}
+.card3{
+    text-align: center;
+    font-size: 80px;
+    color: blue;
+}
+.btn3{
+    color: blue;
+    width: 360px;
+    height: 50px;
+    border: 2px solid blue;
+    border-radius: 5px;
+    margin-left: 39px;
+}

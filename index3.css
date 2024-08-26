@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.card{
+    width: 300px;
+    height: 130px;
+    background-color: transparent;
+    
+}
+.card2{
+    display: flex;
+}
+.asosiy{
+    display: flex;
+}
